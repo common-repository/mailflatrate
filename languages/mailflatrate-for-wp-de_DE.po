@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-23 15:56+0530\n"
+"PO-Revision-Date: 2020-10-23 16:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mailflatrate.php:31
+msgid ""
+"Thanks for your subscription. You will receive a confirmation email in "
+"minutes."
+msgstr ""
+"Danke für deine Registrierung. Wir werden dir in einigen Minuten eine  "
+"Bestätigungsmail zuschicken."
+
+#: mailflatrate.php:32
+msgid "Your email is invalid. Please check it again."
+msgstr ""
+"Die angegebene E-Mail Adresse ist ungültig. Bitte versuchen sie es erneut."
+
+#: mailflatrate.php:33
+msgid "This email adress is already subscribed."
+msgstr "Die angegebene E-Mail Adresse ist bereits registriert."
+
+#: mailflatrate.php:34
+msgid "Please agree with terms and conditions"
+msgstr "Bitte stimmen Sie zu erst der AGB"
+
+#: mailflatrate.php:35
+msgid "Please provide the subscriber email address"
+msgstr "Bittegeben Sie Ihre E-Mail Adresse an"
+
+#: mailflatrate.php:36
+msgid "Please provide the data protection"
+msgstr "Bitte geben Sie den Datenschutz an"
+
+#: mailflatrate.php:68
+msgid "To start with Mailflatrate"
+msgstr "Um mit Mailflatrate zu beginnen"
+
+#: mailflatrate.php:68
+msgid "please enter your Public and Private Key"
+msgstr "Bitte geben Sie Ihren öffentlichen und privaten Schlüssel ein"
+
+#: mailflatrate.php:130
+msgid "Mailflatrate for WP"
+msgstr "Mailflatrate für WP"
+
+#: mailflatrate.php:132 mailflatrate.php:708
+msgid "Form"
+msgstr "Formular"
+
+#: mailflatrate.php:133
+msgid "Import"
+msgstr "Importieren"
+
+#: mailflatrate.php:134
+msgid "Export"
+msgstr "Export"
+
+#: mailflatrate.php:135
+msgid "Sync"
+msgstr "Synchronisieren"
+
+#: mailflatrate.php:185 mailflatrate.php:347 mailflatrate.php:476
+#: mailflatrate.php:606 mailflatrate.php:696
+msgid "You are here"
+msgstr "Du bist hier"
+
+#: mailflatrate.php:186
+#, fuzzy
+#| msgid "Select Mailflatrate List"
+msgid "Sync mailflatrate"
+msgstr "Wähle Mailflatrate Liste"
+
+#: mailflatrate.php:192
+#, fuzzy
+#| msgid "Mailflatrate for WP"
+msgid "Mailflatrate Sync"
+msgstr "Mailflatrate für WP"
+
+#: mailflatrate.php:197 mailflatrate.php:361 mailflatrate.php:492
+#: mailflatrate.php:620
+msgid "Not connected"
+msgstr "Getrennt"
+
+#: mailflatrate.php:210 mailflatrate.php:374 mailflatrate.php:505
+#: mailflatrate.php:633
+msgid "Connected"
+msgstr "Verbunden"
+
+#: mailflatrate.php:220
+msgid "Update mailflatrate list whenever update customer automatically"
+msgstr ""
+"Aktualisieren Sie die Mailflatrate-Liste, wenn der Kunde automatisch "
+"aktualisiert wird"
+
+#: mailflatrate.php:229
+msgid "Save"
+msgstr "Speichern"
+
+#: mailflatrate.php:244 tabs/form-fields.php:26
+msgid "Select Mailflatrate List"
+msgstr "Wähle Mailflatrate Liste"
+
+#: mailflatrate.php:283 mailflatrate.php:415 mailflatrate.php:546
+#, fuzzy
+#| msgid "First name"
+msgid "Field name"
+msgstr "Vorname"
+
+#: mailflatrate.php:284 mailflatrate.php:416 mailflatrate.php:547
+#, fuzzy
+#| msgid "Mailflatrate for WP"
+msgid "Mailflatrate Field"
+msgstr "Mailflatrate für WP"
+
+#: mailflatrate.php:291 mailflatrate.php:432 mailflatrate.php:563
+#, fuzzy
+#| msgid "Email"
+msgid "Email *"
+msgstr "E-Mail"
+
+#: mailflatrate.php:292 mailflatrate.php:305 mailflatrate.php:316
+#: mailflatrate.php:433 mailflatrate.php:440 mailflatrate.php:445
+#: mailflatrate.php:564 mailflatrate.php:571 mailflatrate.php:576
+#, fuzzy
+#| msgid "Select Mailflatrate List"
+msgid "Select mailflatrate field"
+msgstr "Wähle Mailflatrate Liste"
+
+#: mailflatrate.php:304 mailflatrate.php:439 mailflatrate.php:570
+#, fuzzy
+#| msgid "First name"
+msgid "First Name *"
+msgstr "Vorname"
+
+#: mailflatrate.php:315 mailflatrate.php:444 mailflatrate.php:575
+#, fuzzy
+#| msgid "Last name"
+msgid "Last Name *"
+msgstr "Nachname"
+
+#: mailflatrate.php:348
+#, fuzzy
+#| msgid "To start with Mailflatrate"
+msgid "Export mailflatrate"
+msgstr "Um mit Mailflatrate zu beginnen"
+
+#: mailflatrate.php:358
+#, fuzzy
+#| msgid "Mailflatrate for WP"
+msgid "Mailflatrate Export"
+msgstr "Mailflatrate für WP"
+
+#: mailflatrate.php:387 mailflatrate.php:518 mailflatrate.php:643
+msgid "Status"
+msgstr "Status"
+
+#: mailflatrate.php:391 mailflatrate.php:522
+#, fuzzy
+#| msgid "Select Mailflatrate List"
+msgid "Mailflatrate list"
+msgstr "Wähle Mailflatrate Liste"
+
+#: mailflatrate.php:421
+msgid "Export from"
+msgstr "Exportieren aus"
+
+#: mailflatrate.php:478
+#, fuzzy
+#| msgid "To start with Mailflatrate"
+msgid "Import mailflatrate"
+msgstr "Um mit Mailflatrate zu beginnen"
+
+#: mailflatrate.php:489
+#, fuzzy
+#| msgid "Mailflatrate for WP"
+msgid "Mailflatrate Import"
+msgstr "Mailflatrate für WP"
+
+#: mailflatrate.php:552
+msgid "Import into"
+msgstr "Importieren in"
+
+#: mailflatrate.php:607 mailflatrate.php:698
+msgid "Mailflatrate for WordPress"
+msgstr "Mailflatrate für WordPress"
+
+#: mailflatrate.php:612
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: mailflatrate.php:617
+msgid "Mailflatrate API Settings"
+msgstr "Mailflatrate-API-Einstellungen"
+
+#: mailflatrate.php:647
+msgid "Public key"
+msgstr "Öffentlicher Schlüssel"
+
+#: mailflatrate.php:656
+msgid "Private key"
+msgstr "Privat Schlüssel"
+
+#: mailflatrate.php:682
+msgid "Fields"
+msgstr "Felder"
+
+#: mailflatrate.php:684
+msgid "Messages"
+msgstr "Benachrichtigung"
+
+#: mailflatrate.php:714
+msgid "Use the shortcode"
+msgstr "BenutzediesenShortcode"
+
+#: mailflatrate.php:714
+msgid "to display this form inside a post, page or text widget."
+msgstr "um es auf einerSeite, in einemBeitragodereinem Widget anzuzeigen."
+
+#: tabs/form-fields.php:1
+msgid "Form Fields"
+msgstr "Formular Felder"
+
+#: tabs/form-fields.php:36
+msgid "Add required fields to editor automatically"
+msgstr "Plichtfelderautomatisch in den Editor einfügen"
+
+#: tabs/form-fields.php:41 tabs/form-fields.php:174
+msgid "Choose a field to add to the form"
+msgstr "Wählen Sie ein Feld aus, das Sie dem Formular hinzufügen möchten"
+
+#: tabs/form-fields.php:43
+msgid "Form fields"
+msgstr "Formular Felder"
+
+#: tabs/form-fields.php:45 tabs/form-messages.php:46
+msgid "Agree to terms"
+msgstr "Bedingungen zustimmen"
+
+#: tabs/form-fields.php:46 tabs/form-fields.php:295
+msgid "Submit button"
+msgstr "Sende Button"
+
+#: tabs/form-fields.php:47
+msgid "do you agree with terms and conditions"
+msgstr "Bitte stimmen Sie zu erst der AGB"
+
+#: tabs/form-fields.php:48
+msgid "Sign up"
+msgstr "Anmelden"
+
+#: tabs/form-fields.php:176
+msgid "Required Form fields"
+msgstr "Erforderliche Formular Felder"
+
+#: tabs/form-fields.php:309
+msgid "Form code"
+msgstr "Formular Code"
+
+#: tabs/form-fields.php:311
+msgid "Enter the HTML code for your form fields.."
+msgstr "Geben Sie den HTML-Code für Ihre Formularfelder ein.."
+
+#: tabs/form-fields.php:316
+msgid "Preview"
+msgstr "Vorschau"
+
+#: tabs/form-fields.php:326
+msgid ""
+"You don't have list on mailflatrate. Please login and create list on https://"
+"www.app.mailflatrate.com/api/ in your account."
+msgstr ""
+"Sie haben keine Mailflatrate-Liste. Bitte melden Sie sich an und erstellen "
+"Sie eine Liste unter https://www.app.mailflatrate.com/api/ in Ihrem Konto."
+
+#: tabs/form-fields.php:331
+msgid ""
+"Plugin is not connected to mailflatrate server. Please create your private "
+"and public key on mailflatrate and put"
+msgstr ""
+"Das Plugin ist nicht mit dem Mailflatrate-Server verbunden. Bitte erstellen "
+"Sie Ihren privaten und öffentlichen Schlüssel auf Mailflatrate und legen Sie "
+"ihn ab"
+
+#: tabs/form-fields.php:332
+msgid "here"
+msgstr "Hier"
+
+#: tabs/form-messages.php:1
+msgid "Form Messages"
+msgstr "Formularnachrichten"
+
+#: tabs/form-messages.php:17
+msgid "First name"
+msgstr "Vorname"
+
+#: tabs/form-messages.php:18
+msgid "Last name"
+msgstr "Nachname"
+
+#: tabs/form-messages.php:19
+msgid "Email"
+msgstr "E-Mail"
+
+#: tabs/form-messages.php:21
+msgid "Successfully subscribed"
+msgstr "Erfolgreich Abonniert"
+
+#: tabs/form-messages.php:25
+msgid ""
+"The text that shows when an email address is successfully subscribed to the "
+"selected list(s)."
+msgstr "Dieser Text erscheint bei einer erfolgreichen Newsletter Anmeldung."
+
+#: tabs/form-messages.php:29
+msgid "Invalid email address"
+msgstr "Ungültige E-Mail Adresse"
+
+#: tabs/form-messages.php:33
+msgid "The text that shows when an invalid email address is given."
+msgstr "Dieser Text erscheint wenn die angegebene E-Mail Adresse ungültig ist."
+
+#: tabs/form-messages.php:38
+msgid "Already subscribed"
+msgstr "Bereits Abonniert"
+
+#: tabs/form-messages.php:42
+msgid ""
+"The text that shows when the given email is already subscribed to the "
+"selected list(s)."
+msgstr ""
+"Dieser Text erscheint wenn die angegebene E-Mail Adresse bereits registriert "
+"ist."
+
+#: tabs/form-messages.php:51
+msgid "The text that shows when the checkbox isn´t checked"
+msgstr "Dieser Text erscheint wenn der AGB nicht zugestimmt wurde"
+
+#: tabs/form-messages.php:58
+msgid "Missing email address"
+msgstr "Fehlende E-Mail Adresse"
+
+#: tabs/form-messages.php:63
+msgid "This text appears if the e-mail was not specified"
+msgstr "Dieser Text erscheint wenn die E-Mail nicht angegeben wurde"
+
+#: tabs/form-messages.php:68
+msgid "Data protection"
+msgstr "Datenschutz"
+
+#: tabs/form-messages.php:73
+msgid "This text appears if data protection was not specified"
+msgstr "Dieser Text wird angezeigt, wenn kein Datenschutz angegeben wurde"

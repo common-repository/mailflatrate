@@ -1,0 +1,75 @@
+.messagebox
+{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    clear: both;	
+	    width: 100%;
+}
+.messagebox.error
+{
+	color:red;
+}
+.messagebox.success
+{
+	color:red;
+}
+.mailflatrate-form
+{
+	float: left;
+    width: 100%;
+    position: relative;
+    padding: 10px;
+    border: 1px solid #c3b1b1;
+}
+.mailflatrate-form form
+{
+	z-index:1;
+}
+#overlay {
+    position:absolute; /* Sit on top of the page content */
+    display:none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+        background-color: rgba(132, 127, 127, 0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+.mailflatrate-form {
+	border:none !important;
+}
+.mailflatrate-form input[type="text"] {
+	font-size:16px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+.mailflatrate-form p
+{
+	font-size:12px; 
+	padding-left:5px; 
+	padding-right:5px; 
+	padding-top:5px; 
+	padding-bottom:5px; 
+	text-align:justify;
+}
+.mailflatrate-form p label
+{
+	font-weight: normal;
+}
+.mailflatrate-form .mailflatrate-label-checkbox {
+	float:left;
+	margin-right:10px;
+	color:#FFFFFF;
+	margin-top: 3px;
+}
+@media only screen and (max-width: 600px) {
+  .mailflatrate-form input[type="text"] {
+    width:100%;
+  }
+}

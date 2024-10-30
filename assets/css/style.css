@@ -1,0 +1,203 @@
+.wrap {
+    margin: 10px 20px 0 2px;
+}
+.mfr-settings .breadcrumbs
+{
+	    border-bottom: 1px solid #ccc;
+    padding-bottom: 1em;
+}
+.mfr-settings .not_connected
+{
+	border:3px solid red !important;
+	padding:5px;
+}
+.mfr-settings .connected
+{
+	border:3px solid green !important;
+	padding:5px;
+}
+.mfr-settings .mailflatrate-tabs .tab
+{
+	display:none;
+	visibility:hidden;
+}
+.mfr-settings .mailflatrate-tabs .tab.tab-active
+{
+	display:block;
+	visibility:visible;
+}
+.mfr-settings .row {
+    margin-left: -20px;
+    margin-right: -20px;
+    float: none;
+}
+.mfr-settings .row:before
+{
+	content: " ";
+    display: table;
+}
+
+
+.mfr-settings .row .col-4 {
+    width: 100%;
+}
+.mfr-settings .small-margin, .mfr-settings .small-margin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mfr-settings .row .col
+{
+	    padding: 0 20px;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.mfr-settings .page-title{
+   /* background: url(../img/mfr-rocket-logo.png) left center no-repeat; */
+   /* padding-left: 73px;*/
+    line-height: 32px;
+    margin-bottom: 20px;
+	float:left;
+	    margin: -12px 0 0px 15px;
+}
+.mfr-settings .mfr-luc-logo {
+	float:left;
+    width: 130px !important;
+    margin-left: 12px;
+    vertical-align: middle !important;
+}
+.mfr-settings .available-fields, .mfr-settings .available-fields {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background: #fff;
+}
+.mfr-settings .available-fields h4, .mfr-settings .available-fields h4 {
+    font-size: 14px;
+    margin-top: 0;
+}
+.mfr-settings .tiny-margin, .mfr-settings .tiny-margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mfr-settings .available-fields strong, .mfr-settings .available-fields strong {
+    display: block;
+    margin-bottom: 6px;
+}
+.mfr-settings .available-fields button, .mfr-settings .available-fields button {
+    margin: 0 6px 6px 0;
+}
+.mfr-settings .mailflatrate-row
+{
+	float:left;
+	width:48%;
+	margin:1%;
+}
+#mailflatrate-field-wizard
+{
+	float:left;
+	width:100%;
+}
+.mfr-settings .subscribe
+{
+    float: left;
+    width: 100%;
+    background-color: rgba(0,0,0,0.05);
+    min-height: 385px;
+}
+#mailflatrate-form-content
+{
+	resize:none;
+}
+.buttons-fields-mailflatrate input[type='button'], .buttons-fields-mailflatrate button
+{
+	margin-top:5px !important;
+}
+.mfr-settings .available-fields .in-form,.mfr-settings  .available-fields .in-form {
+    opacity: .5;
+}
+.mailflatrate-dropdownhidden, .mailflatrate-multiselecthidden, .mailflatrate-countryhidden, .mailflatrate-statehidden, .mailflatrate-radiolisthidden, .mailflatrate-checkboxlisthidden
+{
+	display:none;
+}
+#mailflatrate-successfully-subscribeed, #mailflatrate-invalid-email-address, #mailflatate_already_subscribed, #agree_to_terms,#missing-email-address,#data-protection {
+    width: 94%;
+    height: 35px;
+}
+.customerFieldSelect {display:none;}
+.progressBarData { display:none;float:left;width:100%;}
+.progressBarData .progressbar { width:100%; float:left; background-color:#eb5202; border:1px solid #eb5202; height:20px;}
+.progressBarData .progressbar .progress {
+    width: 0%;
+    background-color: #ff9272;
+    border: 1px solid #ff9272;
+    height: 18px;
+    float: left;
+}
+.customerFieldSelect {display:none;}
+.customerFieldSelect .errors {color:red;}
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+} 
+.actionFormSync { display:none;}
+#btn_import_called { display:none; margin:20px auto;}
+.customerFieldSelect {display:none;}
+.customerFieldSelect .errors {color:red;}
+#btn_import_called_sync {display:none;margin:0 auto;}
+.mailflatrate-list-select-sync {float:left;width:100%;text-align:center;}
